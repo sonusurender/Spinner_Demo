@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Spinner_Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spinner_prompt">Spinner Items</string>
+
+    <!-- Simple Spinner items array -->
+    <string-array name="simple_spinner_items">
+        <item>Android</item>
+        <item>Java</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>Windows</item>
+        <item>iOS</item>
+        <item>PHP</item>
+        <item>Java Script</item>
+        <item>HTML</item>
+    </string-array>
+
+    <!-- Custom Spinner items array -->
+    <string-array name="custom_spinner_items">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Icecream Sandwich</item>
+    </string-array>
+
+</resources>
